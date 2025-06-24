@@ -3,7 +3,7 @@ name: Deployee
 on:
   push:
     branches:
-      - main
+      - master
       
 env:
   CI: false
